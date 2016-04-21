@@ -2,7 +2,7 @@ Warning, this code is still in development.
 
 # MayaInflate
 
-Create a new command `inflate` which inflate or deflate the volume of selected mesh.
+Create a new function `inflate` which inflate or deflate the volume of selected mesh.
 The mesh must be watertight.
 
 Use : `inflate -ratio 2 -iterations 15`
