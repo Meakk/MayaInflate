@@ -7,5 +7,5 @@ The mesh must be watertight.
 
 Use : `inflate -ratio 2 -iterations 15`
 
-ratio option corresponds to the target volume ratio.
-iterations option is the number of iteration used in the solver.
+`ratio` option corresponds to the target volume ratio.  
+`iterations` option is the number of iteration used in the solver.
