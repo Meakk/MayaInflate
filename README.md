@@ -1,4 +1,5 @@
-Warning, this code is still in development.
+Add a new command in Maya to inflate or deflate the selected closed mesh.
+It changes the volume of the mesh while minimizing the distortion.
 
 # MayaInflate
 
